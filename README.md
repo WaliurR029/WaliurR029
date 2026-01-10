@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**WaliurR029/WaliurR029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **[Your Name]**, a student and developer based in **Bangladesh**.
 
-Here are some ideas to get you started:
+I design and build whatever I can imagine. If an idea pops into my head, chances are I'll try to code it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is **Python** and **C++**, but I also dabble in **Android Development** and **Machine Learning**.
+
+I've got a bunch of active projects, but currently, I'm most focused on **AI- Powered Project Tracker**.
+
+I’ve built several repos, including an AI for plant disease detection, but I'm constantly learning new ways to optimize my code.
+
+### Fun Facts:
+* 🎮 **Elden Ring** (and the DLC) is my go-to game right now.
+* 📸 I enjoy **content creation** in my free time.
+* ⚔️ I'm a Town Hall 15 in **Clash of Clans**.
+* 🚫 I don't like **spaghetti code** (or lag).
+* **Hobbies:** Coding, gaming, and teaching my little brother to code.

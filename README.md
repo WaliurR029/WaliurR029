@@ -11,7 +11,7 @@ I've got a bunch of active projects, but currently, I'm most focused on **AI- Po
 I’ve built several repos, including an AI for plant disease detection, but I'm constantly learning new ways to optimize my code.
 
 ### Fun Facts:
-* **Elden Ring** (and the DLC) is my go-to game right now.
+* **Death Stranding 2 On The Beach** is my go-to game right now.
 * I enjoy **content creation** in my free time.
 * I'm a Town Hall 15 in **Clash of Clans**.
 * I don't like **spaghetti code** (or lag).
